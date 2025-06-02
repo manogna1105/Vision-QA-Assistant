@@ -61,6 +61,12 @@ The bot will start polling Telegram for messages. You can now interact with it v
 * Voice Interface: Speech-to-text via SpeechRecognition, text-to-speech via gTTS.
 * Audio Handling: pydub and ffmpeg for audio conversion.
 
+## Telegram Bot Link
+
+Done! Congratulations on your new bot. You will find it at https://t.me/VisualQA_bot You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+
 ## 📌 Limitations
 
 * Works best with general images (e.g., photos, simple graphs).
